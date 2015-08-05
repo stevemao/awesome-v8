@@ -15,3 +15,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [V8-GL](https://github.com/philogb/v8-gl) - A Toolkit for creating Desktop Hardware Accelerated Graphics with JS
 - [V8Js](https://github.com/preillyme/v8js) - Embeds the V8 Javascript Engine into PHP
 - [Javascript.Net](https://github.com/JavascriptNet/Javascript.Net) - .Net bindings to the V8 JavaScript engine
+- [runtime.js](https://github.com/runtimejs/runtime) - JavaScript library operating system for the cloud
