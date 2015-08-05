@@ -17,3 +17,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Javascript.Net](https://github.com/JavascriptNet/Javascript.Net) - .Net bindings to the V8 JavaScript engine.
 - [runtime.js](https://github.com/runtimejs/runtime) - JavaScript library operating system for the cloud.
 - [gjstest](https://github.com/google/gjstest) - A fast javascript unit testing framework.
+- [plv8](https://github.com/plv8/plv8) - A shared library that provides a PostgreSQL procedural language.
