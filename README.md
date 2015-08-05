@@ -22,3 +22,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Titanium](https://github.com/appcelerator/titanium_mobile) - A platform for web developers to build cross-platform, native mobile applications.
 - [TrifleJS](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
 - [Thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework.
+- [Maxthon](http://www.maxthon.com/) - A freeware web browser.
