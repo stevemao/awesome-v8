@@ -25,3 +25,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Maxthon](http://www.maxthon.com) - A freeware web browser.
 - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [v8-juice](https://code.google.com/p/v8-juice) - A C++ library for extending the v8.
+- [v8pp](https://github.com/pmed/v8pp) - Bind C++ functions and classes.
