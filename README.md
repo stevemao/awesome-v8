@@ -18,3 +18,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [runtime.js](https://github.com/runtimejs/runtime) - JavaScript library operating system for the cloud.
 - [gjstest](https://github.com/google/gjstest) - A fast javascript unit testing framework.
 - [plv8](https://github.com/plv8/plv8) - A shared library that provides a PostgreSQL procedural language.
+- [NativeScript](https://github.com/NativeScript/NativeScript) - Building cross-platform truly native iOS, Android and Windows mobile apps.
+- [Titanium](https://github.com/appcelerator/titanium_mobile) - A platform for web developers to build cross-platform, native mobile applications.
