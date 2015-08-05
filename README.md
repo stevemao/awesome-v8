@@ -21,3 +21,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NativeScript](https://github.com/NativeScript/NativeScript) - Building cross-platform truly native iOS, Android and Windows mobile apps.
 - [Titanium](https://github.com/appcelerator/titanium_mobile) - A platform for web developers to build cross-platform, native mobile applications.
 - [TrifleJS](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
+- [Thrust](https://github.com/breach/thrust) - Chromium-based cross-platform / cross-language application framework.
